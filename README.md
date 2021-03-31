@@ -19,6 +19,7 @@ or just scan this QR from your phone
 2. Search with the common name
    
    Search with the common name of the plant. This may be tricky since the common name may differ from one region to another region.
+   
    <img src="./Assets/search-common.jpg" width="200" alt="Search Common Name">
    
 3. Search with a scientific name
